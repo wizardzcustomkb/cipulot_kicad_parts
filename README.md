@@ -1,2 +1,2 @@
 # cipulot_kicad_parts
- KiCAD footprint library
+KiCad Footprint and Schematic modules for various keyboard parts, prepared as necessary
