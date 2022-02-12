@@ -1,4 +1,4 @@
-(footprint "MJ-4PP-9" (version 20211014) (generator pcbnew)
+(footprint "TRRS" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 61C767C2)
   (attr through_hole)
@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 819f9761-ddc2-4597-96fc-bb753cbf357d)
   )
-  (fp_text value "MJ-4PP-9" (at 0 14) (layer "F.Fab") hide
+  (fp_text value "TRRS" (at 0 14) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 359f4fa9-7899-40ef-a306-8c48ca506579)
   )
