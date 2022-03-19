@@ -1,6 +1,6 @@
 (footprint "ecs_pad" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 621C3267)
+  (tedit 62353FA0)
   (descr " StepUp generated footprint")
   (attr smd)
   (fp_text reference "REF**" (at -6 -8) (layer "F.SilkS")
@@ -195,7 +195,7 @@
       (gr_circle (center -8 0) (end -0.25 0) (width 1.5))
       (gr_line (start -8 8) (end -8 -8) (width 0.4))
     ) (tstamp 5b29962f-685a-409c-915c-9c4a92ed442a))
-  (zone (net 0) (net_name "") (layer "B.Cu") (tstamp 5aa96efb-68cd-4cff-b257-4c30b526f646) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer "B.Cu") (tstamp 646d9e91-59b4-4865-a2fc-29780ed32563) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
     (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
@@ -285,8 +285,8 @@
       )
     )
   )
-  (model "C:\\Users\\sekig\\Documents\\keyboard\\ec_keyboard\\.wrl"
-    (offset (xyz 0 0 0))
+  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/Topre_Housing.step"
+    (offset (xyz -8.9955 -8.9955 0.65))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
