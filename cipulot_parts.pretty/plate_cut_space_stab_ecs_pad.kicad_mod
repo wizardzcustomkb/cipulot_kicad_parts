@@ -1,6 +1,6 @@
 (footprint "plate_cut_space_stab_ecs_pad" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62424B4A)
+  (tedit 62430E0C)
   (descr " StepUp generated footprint")
   (attr smd)
   (fp_text reference "REF**" (at -45.2628 -8.4328) (layer "Dwgs.User")
@@ -27,9 +27,4 @@
   (fp_line (start 43.2755 -6.3635) (end 43.2755 6.3635) (layer "Edge.Cuts") (width 0.12) (tstamp b5b05746-26ad-4dc4-b183-73aa5bdbd63d))
   (fp_line (start -43.7825 6.8705) (end -43.2755 6.3635) (layer "Edge.Cuts") (width 0.12) (tstamp d6a2d9d9-391f-4955-a92f-e6f4f5742fa8))
   (fp_line (start 43.2755 6.3635) (end 43.7825 6.8705) (layer "Edge.Cuts") (width 0.12) (tstamp ebc6fafa-5b44-4698-8b90-2cfa109a2dea))
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/Topre_Housing.step"
-    (offset (xyz -9.3 -9.05 0.65))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )
