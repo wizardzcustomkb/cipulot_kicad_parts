@@ -1,4 +1,4 @@
-(footprint "HOLE_M2" (version 20211014) (generator pcbnew)
+(footprint "HOLE_M2_RF" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 61C4B193)
   (attr through_hole)
@@ -80,6 +80,6 @@
       (xy 1.114249 -1.706789)
       (xy 1.1231 -1.681626)
     ) (layer "B.SilkS") (width 0) (fill solid) (tstamp 10ca9433-d022-417c-a30e-ebab01e624f7))
-  (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers F&B.Cu *.Mask "F.SilkS")
+  (pad "" np_thru_hole circle (at 0 0) (size 2.8 2.8) (drill 2.8) (layers F&B.Cu *.Mask "F.SilkS")
     (clearance 0.5) (tstamp 4f51a47c-c2ee-4326-940c-db573a754f4a))
 )
