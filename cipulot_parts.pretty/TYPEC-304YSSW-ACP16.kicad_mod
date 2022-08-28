@@ -42,9 +42,9 @@
   (pad "13" smd rect (at 5.12 -2.89) (size 2 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6c0ca1f2-7357-4312-9b45-c95efa15e4ec))
   (pad "13" smd rect (at 5.12 -6.79) (size 2 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 868672f5-1b2e-47df-8db4-f69856acd207))
   (pad "13" smd rect (at -5.12 -2.89) (size 2 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b0d1e191-45d1-4208-8f69-1be171c0c8b0))
-  (model "/Users/danny/syncproj/kicad-libs/footprints/Keebio-Parts.pretty/3dmodels/HRO  TYPE-C-31-M-12.step"
-    (offset (xyz -4.45 0 0))
+  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/TYPEC-304YSSW-ACP16.stp"
+    (offset (xyz 0 10.9 1.6))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
+    (rotate (xyz 90 180 0))
   )
 )
