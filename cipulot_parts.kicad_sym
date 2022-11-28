@@ -2518,7 +2518,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "LCSC" "C717678" (id 4) (at 0 -16.51 0)
-      (effects (font (size 1.27 1.27)))
+      (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_keywords" "Common Mode ESD" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
