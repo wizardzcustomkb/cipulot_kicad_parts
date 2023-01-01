@@ -1,4 +1,4 @@
-(footprint "plate_cut_ecs_pad" (version 20211014) (generator pcbnew)
+(footprint "plate_cut_1U_ecs" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 62430D43)
   (descr " StepUp generated footprint")
