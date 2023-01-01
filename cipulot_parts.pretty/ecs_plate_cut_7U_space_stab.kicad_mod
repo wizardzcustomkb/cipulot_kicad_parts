@@ -1,4 +1,4 @@
-(footprint "plate_cut_7U_space_stab_ecs" (version 20211014) (generator pcbnew)
+(footprint "ecs_plate_cut_7U_space_stab" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 62430E0C)
   (descr " StepUp generated footprint")

@@ -1,4 +1,4 @@
-(footprint "plate_3U_space_stab_ecs" (version 20211014) (generator pcbnew)
+(footprint "ecs_plate_3U_space_stab" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 62430E0C)
   (descr " StepUp generated footprint")
@@ -158,7 +158,7 @@
   (fp_arc (start -9.799997 -1.516225) (mid -9.823178 -1.422766) (end -9.887348 -1.350973) (layer "Dwgs.User") (width 0.05) (tstamp fbf57889-fcc5-4a27-86fe-5a45a923795a))
   (fp_arc (start 9.799997 1.516225) (mid 9.823168 1.422757) (end 9.887348 1.350973) (layer "Dwgs.User") (width 0.05) (tstamp fca6b3a8-b6ef-464a-89db-6617434afc10))
   (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/Topre_OEM_Spacebar_3U.step"
-    (offset (xyz 0 0 -4.75))
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
