@@ -19,8 +19,8 @@
   (fp_line (start -16 0) (end -16 5.5) (layer "Edge.Cuts") (width 0.12) (tstamp 80f4181c-1361-4a50-8a42-29c05a576eb5))
   (fp_line (start 16 0) (end 16 5.5) (layer "Edge.Cuts") (width 0.12) (tstamp 90468d0c-3aa7-4c21-90d1-fe4e5e330f04))
   (fp_line (start -16 -7) (end 16 -7) (layer "Edge.Cuts") (width 0.12) (tstamp dfa32f98-a4bd-402e-99a2-8dc183b112be))
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/Topre_Housing.step"
-    (offset (xyz -9.3 -9.05 -5.25))
+  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/Topre_OEM_2U.step"
+    (offset (xyz 0 0 -4.75))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
