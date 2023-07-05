@@ -14,7 +14,7 @@ When using or distributing our project, you are **REQUIRED** to retain and respe
 
 ## Responsibilities
 
-All participants in our project are ***REQUIRED** to:
+All participants in our project are **REQUIRED** to:
 
 a. Respect Intellectual Property: Recognize and respect the intellectual property rights of others, including the original authors of the project. Do not remove or modify any copyright notices, author attributions, or license information.
 
