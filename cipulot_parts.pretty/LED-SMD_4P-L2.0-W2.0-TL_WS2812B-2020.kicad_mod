@@ -48,9 +48,9 @@
   (pad "2" smd rect (at -0.92 0.55) (size 0.9 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 18e61721-4367-4c3f-ba32-8864d5ea46ce))
   (pad "3" smd rect (at 0.92 0.55) (size 0.9 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1975bfaa-fe33-490d-8d69-85585b0e14ba))
   (pad "4" smd rect (at 0.92 -0.55) (size 0.9 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp da8fd8d4-353a-4725-8c06-8c2994de7773))
-  (model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LED-SMD_4P-L2.0-W2.0-H0.8-TL_WS2812B-2020.wrl"
-    (offset (xyz 0 0 -0))
+  (model ":KICAD7_3DMODEL_DIR:cipulot_parts.3dshapes/WS2812-2020.STEP"
+    (offset (xyz 0 0 0.29))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 90 180 0))
   )
 )
