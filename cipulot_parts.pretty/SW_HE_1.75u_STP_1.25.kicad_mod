@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(tags "Hall Effect")
 	(property "Reference" "REF**"
-		(at 0 3.175 0)
+		(at -3 0 90)
 		(layer "B.SilkS")
 		(uuid "60628c1f-f7b2-4a4b-be6f-62bc1a819432")
 		(effects
