@@ -84,7 +84,7 @@
     (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 10ca9433-d022-417c-a30e-ebab01e624f7))
   (pad "" np_thru_hole circle (at 0 0) (size 2.8 2.8) (drill 2.8) (layers "F&B.Cu" "*.Mask")
     (clearance 0.5) (tstamp 4f51a47c-c2ee-4326-940c-db573a754f4a))
-  (model ":KICAD7_3DMODEL_DIR:cipulot_parts.3dshapes/92855A843_18-8 Stainless Steel Low-Profile Socket Head Screws.STEP"
+  (model ":KICAD8_3DMODEL_DIR:cipulot_parts.3dshapes/92855A843_18-8 Stainless Steel Low-Profile Socket Head Screws.STEP"
     (offset (xyz 0 0 1.35))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))

@@ -302,7 +302,7 @@
     (stroke (width 0.05) (type solid)) (layer "Dwgs.User") (tstamp 57cd3d08-6509-410e-8ec6-ec59c7896f84))
   (fp_arc (start 28.300003 -1.516225) (mid 28.276832 -1.422757) (end 28.212652 -1.350973)
     (stroke (width 0.05) (type solid)) (layer "Dwgs.User") (tstamp ab1f1af7-f394-4271-bace-d9e3e986de0d))
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/Topre_OEM_Spacebar_3U.step"
+  (model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/Topre_OEM_Spacebar_3U.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

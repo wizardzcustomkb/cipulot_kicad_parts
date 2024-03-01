@@ -79,7 +79,7 @@
   (pad "23" thru_hole circle (at 6.35 -11.43 180) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask "B.SilkS") (tstamp f5e796b6-0ab3-4672-a069-0abf9736a99d))
   (pad "24" thru_hole circle (at -7.62 -15.24 180) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask "B.SilkS") (tstamp 234e2d06-9e63-418c-aa07-cb573f7a69fe))
   (pad "24" thru_hole circle (at 6.35 -13.97 180) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask "B.SilkS") (tstamp 378b6f5f-6030-49ad-8c7c-82895a074eb9))
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/ARDUINO PRO MICRO REVERSED.step"
+  (model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/ARDUINO PRO MICRO REVERSED.step"
     (offset (xyz -7.62 -12.7 5.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 -90))

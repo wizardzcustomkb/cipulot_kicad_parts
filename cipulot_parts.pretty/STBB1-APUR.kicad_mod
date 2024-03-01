@@ -54,7 +54,7 @@
   (pad "9" smd rect (at 1.5 -0.5 90) (size 0.3 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 401c9e6c-2a1d-423f-9603-83492f929afa))
   (pad "10" smd rect (at 1.5 -1 90) (size 0.3 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp be1d255c-650d-4d8e-8791-a2d2842ebcb9))
   (pad "11" smd rect (at 0 0) (size 1.75 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ab9aedeb-c5a9-4630-b8e4-c16d7409f0d0))
-  (model ":KICAD7_3DMODEL_DIR:cipulot_parts.3dshapes/STBB1-APUR.step"
+  (model ":KICAD8_3DMODEL_DIR:cipulot_parts.3dshapes/STBB1-APUR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

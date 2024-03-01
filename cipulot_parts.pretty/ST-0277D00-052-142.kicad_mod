@@ -37,7 +37,7 @@
   (pad "S" thru_hole oval (at 4.05 2.4) (size 0.75 1.8) (drill oval 0.45 1.5) (layers "*.Cu" "*.Mask") (tstamp 5dc4787c-500b-4b2c-b886-ee32763dab59))
   (pad "T" thru_hole oval (at -4.05 11.4) (size 0.75 1.8) (drill oval 0.45 1.5) (layers "*.Cu" "*.Mask") (tstamp 31d3af2c-5d9f-4e16-aadb-8a0e8e491268))
   (pad "T" thru_hole oval (at 4.05 11.4) (size 0.75 1.8) (drill oval 0.45 1.5) (layers "*.Cu" "*.Mask") (tstamp 140423d1-06be-4aad-9b02-dd5f5f88ad38))
-  (model ":KICAD7_3DMODEL_DIR:cipulot_parts.3dshapes/ST-0277D00-052-142.step"
+  (model ":KICAD8_3DMODEL_DIR:cipulot_parts.3dshapes/ST-0277D00-052-142.step"
     (offset (xyz 0 -6.7 -2.1))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

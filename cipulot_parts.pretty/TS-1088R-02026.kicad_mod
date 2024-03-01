@@ -21,7 +21,7 @@
     (thermal_bridge_angle 45) (tstamp 6ac43334-503e-4416-b0d9-4b4928c09362))
   (pad "2" smd rect (at 2.225 0 180) (size 1.05 2) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp 1b74ad1c-5490-4e43-9db7-094aba1aed6d))
-  (model ":KICAD7_3DMODEL_DIR:cipulot_parts.3dshapes/TS-1088R-02026.step"
+  (model ":KICAD8_3DMODEL_DIR:cipulot_parts.3dshapes/TS-1088R-02026.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -23,7 +23,7 @@
   (pad "2" thru_hole oval (at -1.52028 1.52028) (size 2.7 2.7) (drill 2.35) (layers "*.Cu" "*.Mask") (tstamp 51af86d4-2b52-436f-9eb4-2ca27a3d88df))
   (pad "3" thru_hole oval (at 1.52028 1.52028) (size 2.7 2.7) (drill 2.35) (layers "*.Cu" "*.Mask") (tstamp 689b6064-c99a-43cc-9a06-8d5acf9c65f2))
   (pad "4" thru_hole oval (at 1.52028 -1.52028) (size 2.7 2.7) (drill 2.35) (layers "*.Cu" "*.Mask") (tstamp 9f336b20-d59e-494d-8c8b-abfbaf5003fc))
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/IPX 4 Pole Safesolution.step"
+  (model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/IPX 4 Pole Safesolution.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

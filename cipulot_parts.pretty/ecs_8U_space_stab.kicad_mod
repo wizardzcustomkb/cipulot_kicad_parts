@@ -157,7 +157,7 @@
   (fp_arc (start -57.475 9.100006) (mid -57.504288 9.170714) (end -57.574997 9.2) (layer "Dwgs.User") (width 0.05) (tstamp ee286d2a-e015-4693-9300-1bf031867b83))
   (fp_arc (start -72.425 6.9) (mid -72.475063 6.898746) (end -72.525 6.894987) (layer "Dwgs.User") (width 0.05) (tstamp ef6cdbdb-516a-4e78-86a3-49ebd04f3bfd))
   (fp_arc (start -57.424997 -1.516225) (mid -57.448178 -1.422766) (end -57.512348 -1.350973) (layer "Dwgs.User") (width 0.05) (tstamp efe45b56-66ce-40c5-9e0a-ab6a3d24fa78))
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/Topre_OEM_Spacebar_8U.step"
+  (model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/Topre_OEM_Spacebar_8U.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

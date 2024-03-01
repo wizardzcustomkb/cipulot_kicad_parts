@@ -42,7 +42,7 @@
     (clearance 0.15) (tstamp 841b4d5c-80c7-4956-a815-d4371461550a))
   (pad "D" thru_hole oval (at 2.1 10.3) (size 1.7 2.5) (drill oval 1 1.5) (layers *.Cu *.Mask "F.SilkS")
     (clearance 0.15) (tstamp d02445f3-df98-49d4-8d9e-e245837fcf6e))
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/PJ-3200A.step"
+  (model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/PJ-3200A.step"
     (offset (xyz -1.75 0 -1.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))

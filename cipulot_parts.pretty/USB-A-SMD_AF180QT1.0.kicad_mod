@@ -322,7 +322,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "0401c206-90f4-4639-9fb2-b97e48ab92f8")
 	)
-	(model "${KICAD7_3DMODEL_DIR}/cipulot_parts.3dshapes/USB-A-SMD_4P-L14.3-W13.7-H8.2.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/USB-A-SMD_4P-L14.3-W13.7-H8.2.wrl"
 		(offset
 			(xyz 0 0.65 0)
 		)

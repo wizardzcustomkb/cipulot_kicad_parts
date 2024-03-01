@@ -47,7 +47,7 @@
   (pad "13" thru_hole oval (at -4.32 -6.78) (size 1 2.1) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp 40ecb257-223f-4ac9-ac27-cf8eab57d046))
   (pad "13" thru_hole oval (at -4.32 -2.6) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask) (tstamp d6d39208-876f-46d2-b709-519cf9eaf7ee))
   (pad "13" thru_hole oval (at 4.32 -2.6) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask) (tstamp eee73d46-8ad4-4e70-9265-bb4f33dacde6))
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/HRO  TYPE-C-31-M-12.step"
+  (model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/HRO  TYPE-C-31-M-12.step"
     (offset (xyz -4.45 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

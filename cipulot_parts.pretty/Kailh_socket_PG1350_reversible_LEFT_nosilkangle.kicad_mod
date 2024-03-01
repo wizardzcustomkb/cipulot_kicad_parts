@@ -94,12 +94,12 @@
   (pad "1" smd rect (at 3.275 5.95) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp ec5d0f8e-3d7e-4e79-bece-23f6f0069055))
   (pad "2" smd rect (at 8.275 3.75) (size 2.6 2.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 29522731-4fc0-4318-833b-b5e57939369e))
   (pad "2" smd rect (at -8.275 3.75) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp b364433d-09c7-4b04-a88b-5b037f183a3b))
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/PG1350-socket.STEP"
+  (model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/PG1350-socket.STEP"
     (offset (xyz 5 -3.75 -1.9))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/Kailh_Choc_LP_Switch.STEP"
+  (model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/Kailh_Choc_LP_Switch.STEP"
     (offset (xyz 0 0 2.2))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

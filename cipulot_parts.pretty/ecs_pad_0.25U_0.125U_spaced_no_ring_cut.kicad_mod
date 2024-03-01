@@ -1044,17 +1044,17 @@
       )
     )
   )
-  (model ":KICAD7_3DMODEL_DIR:cipulot_parts.3dshapes/Topre_OEM_1U.step"
+  (model ":KICAD8_3DMODEL_DIR:cipulot_parts.3dshapes/Topre_OEM_1U.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model ":KICAD7_3DMODEL_DIR:cipulot_parts.3dshapes/Topre_OEM_1U.step"
+  (model ":KICAD8_3DMODEL_DIR:cipulot_parts.3dshapes/Topre_OEM_1U.step"
     (offset (xyz 2.38125 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model ":KICAD7_3DMODEL_DIR:cipulot_parts.3dshapes/Topre_OEM_1U.step"
+  (model ":KICAD8_3DMODEL_DIR:cipulot_parts.3dshapes/Topre_OEM_1U.step"
     (offset (xyz -4.7625 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

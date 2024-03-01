@@ -83,7 +83,7 @@
   (pad "53" thru_hole rect (at 4.25 3.1 180) (size 1.524 0.7) (drill 0.4) (layers *.Cu *.Mask) (tstamp 4233c375-b527-4337-98d0-998917094471))
   (pad "54" thru_hole rect (at 4.25 4.2 180) (size 1.524 0.7) (drill 0.4) (layers *.Cu *.Mask) (tstamp 10c858da-940f-48eb-b13a-bed16c4ceed2))
   (pad "55" thru_hole rect (at 4.25 5.3 180) (size 1.524 0.7) (drill 0.4) (layers *.Cu *.Mask) (tstamp 4cf2041c-a97e-46ac-af16-163084d157e6))
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/holyiot_18010_nRF52840.step"
+  (model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/holyiot_18010_nRF52840.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

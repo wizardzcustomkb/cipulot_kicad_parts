@@ -35,7 +35,7 @@
     (stroke (width 0.06) (type solid)) (fill none) (layer "F.Fab") (tstamp b044709c-f5cb-4976-b974-edf4e47f5fc5))
   (pad "1" smd rect (at -2.8 0) (size 2 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fb1cabcd-9100-446b-9692-d6c7387e4af9))
   (pad "2" smd rect (at 2.8 0) (size 2 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e1b6cf38-5a17-43f4-b638-8210e327dad9))
-  (model ":KICAD7_3DMODEL_DIR:cipulot_parts.3dshapes/SMD_L7.1-W6.5-P5.60.step"
+  (model ":KICAD8_3DMODEL_DIR:cipulot_parts.3dshapes/SMD_L7.1-W6.5-P5.60.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

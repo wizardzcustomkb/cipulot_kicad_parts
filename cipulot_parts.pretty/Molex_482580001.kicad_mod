@@ -51,7 +51,7 @@
   (pad "6" thru_hole oval (at 7.85 -5.15) (size 1.6 3) (drill oval 0.9 2.3) (layers *.Cu *.Mask) (tstamp 3493e3d2-b9c0-4595-8348-3ac6e0b1795e))
   (pad "7" smd rect (at -7.95 3.95) (size 2.4 2.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ff6c5eee-2ecf-4bfe-9d68-73642c844cc0))
   (pad "8" smd rect (at 7.95 3.95) (size 2.4 2.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a4fbab56-4b5d-473e-a36f-d501cedc46f9))
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/Molex_482580001.stp"
+  (model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/Molex_482580001.stp"
     (offset (xyz 0 0.4 1))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

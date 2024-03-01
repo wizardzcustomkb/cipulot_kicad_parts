@@ -302,12 +302,12 @@
     (stroke (width 0.05) (type solid)) (layer "Dwgs.User") (tstamp 7684f608-2598-49aa-9df1-371dedf6f7f5))
   (fp_arc (start 66.400003 -1.516225) (mid 66.376832 -1.422757) (end 66.312652 -1.350973)
     (stroke (width 0.05) (type solid)) (layer "Dwgs.User") (tstamp 261eaa44-d51f-4080-8987-6c4c090f1a83))
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/Topre_OEM_Spacebar_7U.step"
+  (model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/Topre_OEM_Spacebar_7U.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KICAD7_3DMODEL_DIR}/cipulot_parts.3dshapes/Topre_OEM_7U_Wire.step"
+  (model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/Topre_OEM_7U_Wire.step"
     (offset (xyz 0 -1.5 1.7))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

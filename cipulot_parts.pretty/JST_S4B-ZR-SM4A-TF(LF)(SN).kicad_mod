@@ -33,7 +33,7 @@
   (pad "4" smd rect (at 2.25 0 90) (size 2.5 0.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d0380585-29fe-4be8-99ad-5450c25d978c))
   (pad "S1" smd rect (at -4.2 3.6 90) (size 1.9 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a26915a5-f430-4218-b0ce-dcddb885b0b0))
   (pad "S2" smd rect (at 4.2 3.6 90) (size 1.9 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b3616b88-22ef-458b-94e8-b42df882e132))
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/S4B-ZR-SM4A-TF_LF__SN_.step"
+  (model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/S4B-ZR-SM4A-TF_LF__SN_.step"
     (offset (xyz 0 0.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

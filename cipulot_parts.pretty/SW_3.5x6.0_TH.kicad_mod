@@ -24,7 +24,7 @@
   (fp_line (start -3.0254 -1.8008) (end -3.0254 -1.5508) (layer "F.SilkS") (width 0.15) (tstamp ed77c0b3-52b2-4a8b-b376-0d9b9648ce1a))
   (pad "1" thru_hole circle (at -3.47696 -0.04584 180) (size 2 2) (drill 1.3) (layers *.Cu *.Mask "F.SilkS") (tstamp abb8b90e-46c8-4b22-91a9-a67da8ba3b33))
   (pad "2" thru_hole circle (at 3.02304 -0.04584 180) (size 2 2) (drill 1.3) (layers *.Cu *.Mask "F.SilkS") (tstamp 014601f0-1de9-4963-b274-6153c84265cd))
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/3.5x6 THT.STEP"
+  (model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/3.5x6 THT.STEP"
     (offset (xyz -0.05 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

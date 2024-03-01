@@ -83,7 +83,7 @@
   (pad "2" smd roundrect (at -0.6 -2.2) (size 1 1.8) (layers "F.Cu") (roundrect_rratio 0.1666666667) (tstamp 3037f18d-a698-417e-9cb0-1e089eb829c8))
   (pad "3" smd roundrect (at 0.6 -2.2) (size 1 1.8) (layers "F.Cu") (roundrect_rratio 0.1666666667) (tstamp f872abb5-0407-44b9-80a6-b70793493036))
   (pad "4" smd roundrect (at 1.8 -2.2) (size 1 1.8) (layers "F.Cu") (roundrect_rratio 0.1666666667) (tstamp bb823521-fa21-440d-90c5-1e8a58cc2f54))
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/Molex_EZmate_4pin_781710004.step"
+  (model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/Molex_EZmate_4pin_781710004.step"
     (offset (xyz 0 -0.25 1.4375))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

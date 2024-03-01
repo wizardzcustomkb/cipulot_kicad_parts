@@ -26,7 +26,7 @@
     (stroke (width 0.1) (type solid)) (layer "Edge.Cuts") (tstamp 32664f6d-7ff6-45c5-a522-37fcf7b02b03))
   (fp_arc (start 7 6.5) (mid 6.853552 6.853551) (end 6.5 7)
     (stroke (width 0.1) (type solid)) (layer "Edge.Cuts") (tstamp 5b5df634-b346-4d92-b736-36e750c412c7))
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/Topre_Housing.step"
+  (model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/Topre_Housing.step"
     (offset (xyz -9.3 -9.05 -5.25))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

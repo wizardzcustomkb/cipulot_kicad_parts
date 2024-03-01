@@ -43,7 +43,7 @@
     (clearance 0.2) (tstamp 6f5018ba-081c-4ae8-bf8b-dcb5d05cdd66))
   (pad "1" smd rect (at -1.725 0) (size 1.15 1.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 57a7868b-1802-43e5-9e56-6fe36c6b574f))
   (pad "2" smd rect (at 1.725 0) (size 1.15 1.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 046ac8a4-1147-4fe3-b440-3dfecb3d6589))
-  (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric_ReverseMount.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric_ReverseMount.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -32,7 +32,7 @@
   (pad "12" smd rect (at -2.75 1.338 180) (size 0.3 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4f9ecf3b-164f-4132-96ac-2177037b1e0b))
   (pad "MP" smd rect (at 3.975 -1.338 180) (size 0.95 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 31b1731d-8257-4eb3-b699-589e05fd8114))
   (pad "MP" smd rect (at -3.975 -1.338 180) (size 0.95 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp eeb1c8ae-5086-49dc-aeb5-d56efe0bcde1))
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/Amphenol_10051922-1210ELF.step"
+  (model "${KICAD8_3DMODEL_DIR}/cipulot_parts.3dshapes/Amphenol_10051922-1210ELF.step"
     (offset (xyz 1 0.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

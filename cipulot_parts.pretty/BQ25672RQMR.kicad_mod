@@ -448,7 +448,7 @@
   (pad "27" smd rect (at 0 -1.7) (size 0.2 1) (layers "F.Cu" "F.Paste") (tstamp de68c663-e08c-4281-a9eb-006602d4c1a9))
   (pad "28" smd rect (at -0.45 -1.7) (size 0.2 1) (layers "F.Cu" "F.Paste") (tstamp 0cd342a9-b9be-4207-bd33-dca8a475c418))
   (pad "29" smd rect (at -0.9 -1.725) (size 0.2 0.95) (layers "F.Cu" "F.Paste") (tstamp 044143e8-1bce-4080-9051-6c81506726f3))
-  (model ":KICAD7_3DMODEL_DIR:cipulot_parts.3dshapes/BQ25672RQMR.step"
+  (model ":KICAD8_3DMODEL_DIR:cipulot_parts.3dshapes/BQ25672RQMR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
